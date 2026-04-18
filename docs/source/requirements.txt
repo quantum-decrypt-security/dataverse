@@ -19,3 +19,4 @@ rsa
 s3transfer
 isort
 pytest
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
